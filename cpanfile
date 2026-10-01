@@ -5,7 +5,7 @@ requires 'Data::Validate::IP', '0.31';
 requires 'JSON', '4.11';
 requires 'Log::Log4perl', '1.58';
 requires 'Log::Log4perl::Appender::ScreenColoredLevels::UsingMyColors', '0.117';
-requires 'Moose', '2.4000';
+requires 'Moose', '2.4001';
 requires 'MooseX::AttributeShortcuts', '0.037';
 requires 'MooseX::StrictConstructor', '0.21';
 requires 'MooseX::Types::Moose', '0.51';
